@@ -50,8 +50,8 @@ Simply **fork the repo**, create a branch, and submit a pull request!
 
 Need help or have suggestions? Feel free to reach out!
 
-- 📧 Email: [your-email@example.com](mailto\:aditya@adibiz.in)
-- 🌍 Website: [your-website.com](https://adibiz.in)
+- 📧 Email: [aditya@adibiz.in](mailto\:aditya@adibiz.in)
+- 🌍 Website: [adibiz.in](https://adibiz.in)
 
 
 ---
